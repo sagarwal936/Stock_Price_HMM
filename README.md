@@ -1,4 +1,4 @@
-# 📈 Stock Market Modeling using Hidden Markov Models (HMM)
+# 📈 Stock Market Prediction Using Stochastic Process
 
 This project explores the idea that **stock market price movements follow a first-order Markov Chain**, and implements **Hidden Markov Models (HMM)** to model and analyze the behavior of stock prices over time.
 
